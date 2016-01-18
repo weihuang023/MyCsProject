@@ -1,0 +1,5 @@
+/Users/weihuang023/Documents/MyCsProject/MyCsProject/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/weihuang023/Documents/MyCsProject/MyCsProject/bin/Debug/MyCsProject.exe.mdb
+/Users/weihuang023/Documents/MyCsProject/MyCsProject/bin/Debug/MyCsProject.exe
+/Users/weihuang023/Documents/MyCsProject/MyCsProject/obj/x86/Debug/MyCsProject.exe
+/Users/weihuang023/Documents/MyCsProject/MyCsProject/obj/x86/Debug/MyCsProject.exe.mdb
