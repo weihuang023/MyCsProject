@@ -4,6 +4,7 @@ using System.IO;
 
 namespace MyCsProject
 {	
+	// Updated GitHub Connection
 	// delegate int NumberChanger(int n);
 	// class Delegate { method addNum; method multNum; method getNum }
 	// Create delegate instances
@@ -52,7 +53,6 @@ namespace MyCsProject
 		void showTransaction();
 		double getAmount();
 	}
-
 	public class Transcation : ITranscations
 	{
 		private string tCode;
@@ -81,7 +81,6 @@ namespace MyCsProject
 			Console.WriteLine ("Amount: {0}", getAmount ());
 		}
 	}
-
 	class Box 
 	{
 		private double length;
